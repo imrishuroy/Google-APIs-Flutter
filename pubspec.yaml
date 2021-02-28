@@ -25,7 +25,8 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.0
   google_sign_in: any
-  googleapis: ^1.0.0
+  googleapis: any
+  http: any
 
 dev_dependencies:
   flutter_test:
